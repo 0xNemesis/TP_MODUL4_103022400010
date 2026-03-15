@@ -23,4 +23,4 @@ public class KodePos
         else
             return -1;
     }
-}
+}   
